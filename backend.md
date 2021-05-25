@@ -4,6 +4,7 @@
 
 - Time allotted for the live coding exercise is the first 30 minutes of the Top Grading interview.
 - You will be given a document / link that explains the coding question in detail and the expected result.
+- The exercise will be based on arrays, strings and algorithm.
 - Your entire screen will be shared with us the whole time.
 - You should be able to write your code, execute it and show the output on your screen.
 
