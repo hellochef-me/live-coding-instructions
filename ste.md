@@ -10,8 +10,11 @@
 
 ## Your Setup (Do This Before The Interview)
 
-- You're expected to code in JS on your own laptop / desktop. This will allow you to be in your usual setup that's comfortable and fully equipped.
-- Please make sure you have Node.js, NVM, NPM / yarn, etc. installed.
-- **Before** the interview begins, please have a brand new Node project with the framework of your choice ready & fired up.
+- You're expected to have the necessary setup on your own computer before the challenge starts. This will allow you to be in your usual, comfortable environment.
+- At Hello Chef, our weapon of choice for end to end and UI tests is Javascript. So it would be great to see you using the same for this challenge.
+- But if you're a total stranger to Javascript, you may use another language of your choice.
+- You can use any framework that's fit for API testing purposes.
+- Before the interview begins, please have a brand new project with the framework of your choice ready & fired up.
+- Make sure you have all the necessary dependencies or packages installed (e.g. Node.js, NVM, NPM, yarn, etc).
 - You can use any code editor of your choice.
 - You're free to look up syntax / function reference online during the interview.
